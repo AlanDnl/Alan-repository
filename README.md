@@ -14,7 +14,7 @@
 
 This data analysis project aims to solve business questions in order to analyze and visualize HR employees distribution along the company. Furthermore, build a visual data story or dashboard using Power BI to present to the stakeholders.
 
-So, the methodology was standarize, clean and analyize the information due to some columns were in different format dates.
+So, the methodology involves standard, clean and analyize the information due to some of the columns were in different format dates.
 
 ## Data Sources
 Human Resources: The primary dataset used for this analysis is the "Human_Resources.csv" file, containing detailed information about each employee, the hire and termination dates, department and other personal information since 2000 to 2020.
